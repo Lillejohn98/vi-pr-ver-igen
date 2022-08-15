@@ -1,0 +1,7 @@
+C:\Users\laal3\source\repos\contains.1\contains.1\obj\Debug\contains.1.csproj.AssemblyReference.cache
+C:\Users\laal3\source\repos\contains.1\contains.1\obj\Debug\contains.1.csproj.CoreCompileInputs.cache
+C:\Users\laal3\source\repos\contains.1\contains.1\bin\Debug\contains.1.exe.config
+C:\Users\laal3\source\repos\contains.1\contains.1\bin\Debug\contains.1.exe
+C:\Users\laal3\source\repos\contains.1\contains.1\bin\Debug\contains.1.pdb
+C:\Users\laal3\source\repos\contains.1\contains.1\obj\Debug\contains.1.exe
+C:\Users\laal3\source\repos\contains.1\contains.1\obj\Debug\contains.1.pdb
